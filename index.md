@@ -1,2 +1,1 @@
-###### 
-Added 6 hashtags and a space
+###### Added 6 hashtags and a space
